@@ -2,7 +2,7 @@
 A responsive weather application built with HTML, CSS and Vanilla JavaScript using the Open-Meteo API.
 
 
-#  Weather App
+
 
 A responsive weather application built using HTML, CSS and Vanilla JavaScript.
 
@@ -69,5 +69,5 @@ weather-app/
 ##  Author
 Dimpal
 
-Dimpal
+
 
